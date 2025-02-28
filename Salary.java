@@ -18,4 +18,4 @@ public class Salary
                 System.out.println(netPay);
         }
 }
-
+//I realized that by removing the tax and inputing 10, 10 into the parameters it will equal to 1000
