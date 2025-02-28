@@ -14,8 +14,8 @@ public class Salary
         //something is not logical in this code..
         workedHours = totalSalary; 
         hourlyWage = totalSalary/hourlyWage; 
-        netPay = hourlyWage * totalSalary/tax;
+        netPay = hourlyWage * totalSalary/tax; 
                 System.out.println(netPay);
         }
 }
-//I realized that by removing the tax and inputing 10, 10 into the parameters it will equal to 1000
+//I realized that by removing the tax and inputing 10, 10 into the parameters it will equal to 1000 (not part of the exam)
